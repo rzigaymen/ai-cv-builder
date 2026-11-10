@@ -1,0 +1,17 @@
+{
+  "applicant_name": "Alex Morgan",
+  "email": "alex.morgan@example.com",
+  "phone": "+49 30 000000",
+  "city": "Example City",
+  "company": "Example Employer",
+  "location": "Example City",
+  "date": "10 November 2026",
+  "subject": "Application for Example Role",
+  "greeting": "Dear Hiring Team,",
+  "paragraphs": [
+    "I am applying for the Example Role because it combines structured operations work with practical automation.",
+    "In my current role, I maintain records, document recurring issues, and prepare clear updates for stakeholders. In a personal Python project, I also built and tested a small document-review workflow.",
+    "I would bring careful documentation, a measured approach to automation, and a willingness to learn the tools used by your team."
+  ],
+  "closing": "Kind regards"
+}

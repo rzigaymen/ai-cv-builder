@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Packaging and tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+
+# Local application output and temporary files
+output/
+*.docx
+*.pdf
+*.tmp
+*.tmp.docx
+.cv-layout-measurement.docx
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.secret
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Editors and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
